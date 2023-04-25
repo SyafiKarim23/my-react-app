@@ -1,0 +1,23 @@
+h3 {
+    color: #191970;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+/* .card {
+    text-align: center;
+
+}
+
+.card2 {
+    text-align: left;
+} */
+
+.usercard {
+    background-color: ghostwhite;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px 0px;
+}

@@ -1,0 +1,42 @@
+h1 {
+    color: #71c55d;
+    font-family: "Philosopher",
+        sans-serif;
+}
+
+.content {
+    text-align: center;
+}
+
+.card {
+    text-align: left;
+
+}
+
+.contentcard {
+    background-color: #71c55d;
+    padding: 10px 0px 10px 0px;
+}
+
+.contentcard {
+    background-color: #71c55d;
+}
+
+.copyright {
+    float: left;
+}
+
+.credits {
+    float: right;
+    font-size: 13px;
+}
+
+.aboutus {
+    text-align: center;
+}
+
+.footer {
+    background-color: #37517e;
+    text-align: center;
+    color: white;
+}
